@@ -13,6 +13,9 @@ by connecting and keeping records and sharing this informatiion with devices.
 | ----------- | ---------- |------------------|
 |<img src="https://github.com/JustinWeru12/Vertrex/blob/master/assets/readme/4.png" width="400px" height="auto">|<img src="https://github.com/JustinWeru12/Vertrex/blob/master/assets/readme/5.png" width="400px" height="auto">|<img src="https://github.com/JustinWeru12/Vertrex/blob/master/assets/readme/6.png" width="400px" height="auto">|
 
+|Uploading|
+|-----|
+|<img src="https://github.com/JustinWeru12/Vertrex/blob/master/assets/readme/7.png" width="400px" height="auto">|
 
 ## Getting Started with Flutter
 
